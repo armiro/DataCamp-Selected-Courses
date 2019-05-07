@@ -1,2 +1,3 @@
 # DataCamp-Selected-Courses
-Course notebooks and datasets for selected online courses on DataCamp learning website
+Course notebooks and datasets for selected courses on DataCamp. The course name is set as the name of each folder. Courses are available as jupyter notebooks via Google Colab, and the datasets are prepared in the same directory, which should be uploaded to Colab's cloud drive when using the main notebook.
+website address: https://datacamp.com
